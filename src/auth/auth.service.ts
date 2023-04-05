@@ -11,6 +11,6 @@ export class AuthService{
     }
 
     signup(){
-
+     return 'registered'
     }
 }
